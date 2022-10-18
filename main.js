@@ -17,4 +17,5 @@ function setCardType(type){
 
 setCardType("default");
 
+
 globalThis.setCardType = setCardType;
